@@ -12,7 +12,6 @@ N/A
 
 Play around using dev tool by pressing control+shift+I
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
